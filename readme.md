@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. Computer Engineering, Thadomal Shahani Engineering College — **CGPA: 9.31**
+- 🎓 B.E. Computer Engineering, Thadomal Shahani Engineering College — **CGPA: 9.26**
 - 🧠 Building AI-powered backend systems — RAG pipelines, agentic workflows, and scalable APIs
 - 🛠️ Currently exploring **LangGraph**, **agentic AI orchestration**, and **RAG at scale**
 - 💼 Looking for **startup internship opportunities** where I can ship real, high-impact backend work
